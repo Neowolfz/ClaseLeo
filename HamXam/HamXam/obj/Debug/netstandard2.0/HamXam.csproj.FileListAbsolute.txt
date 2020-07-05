@@ -1,0 +1,14 @@
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\bin\Debug\netstandard2.0\HamXam.deps.json
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\bin\Debug\netstandard2.0\HamXam.dll
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\bin\Debug\netstandard2.0\ref\HamXam.dll
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\bin\Debug\netstandard2.0\HamXam.pdb
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\HamXam.AssemblyInfoInputs.cache
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\HamXam.AssemblyInfo.cs
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\HamXam.csproj.CoreCompileInputs.cache
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\HamXam.dll
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\ref\HamXam.dll
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\HamXam.pdb
+C:\Users\Neowolf\source\repos\HamXam\HamXam\HamXam\obj\Debug\netstandard2.0\HamXam.csprojAssemblyReference.cache
